@@ -18,5 +18,10 @@ public class DemoClass2 {
 		System.out.println(a-b);
 
 	}
+	//Yassir
+	public static void divide(int a, int b) {
+		System.out.println(a/b);
+
+	}
 
 }
